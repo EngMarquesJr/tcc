@@ -7,3 +7,6 @@ Para abrir o código basta clicar no arquivo `tcc_placas.ipynb`
 
 
 
+
+
+
